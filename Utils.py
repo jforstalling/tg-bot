@@ -3,7 +3,7 @@ import telebot
 from telebot import types
 import functools
 
-bot = telebot.TeleBot('658831329:AAFe_u9WvqcpePeex2IZ-62jD6YC2jeZEU4')
+bot = telebot.TeleBot('658831329:AAFe_u9WvqcpePeex2IZ-62jD6YC2jeZeu4')
 
 EMODJI = {"Search": "\U0001F50E",
           "Main Menu": "\U0001F3E0",
